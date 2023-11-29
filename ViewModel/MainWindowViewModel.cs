@@ -11,10 +11,10 @@ namespace Sample3.ViewModel
 
         public MainWindowViewModel()
         {
-            // TODO
+            // TODO:
         }
 
-        //  TODO CmdPrint Property
+        //  TODO: Command CmdPrint Property
 
         public string ContentText
         {
